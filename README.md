@@ -1,2 +1,0 @@
-# license
-Alsami License Collection
