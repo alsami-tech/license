@@ -2,9 +2,5 @@ Alsami License Collection
 
 These Liscenses are meant to be devicive, yet open. These Liscenses are meant to allow modification and redistribution of the softwares.
 
-Credits to:
-  Sami Alameddine
-
-
-
-AlsamiTechnologies is a trademark of Sami Alameddine
+To download the liscense via curl, use this command
+curl -LO https://raw.githubusercontent.com/alsami-tech/license/main/opensource/LICENSEv2
